@@ -1,2 +1,2 @@
 # desafio-logica-inicial
-Repositório para aulas de lógica da Dio
+O jogo esta em Python, eu já sei um pouco da linguagem, então utilizei de funções, importei algumas bibliotecas, e dei um incremento a mais coisas além do que é solicitado.
